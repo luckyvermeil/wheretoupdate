@@ -1,0 +1,10 @@
+{
+  "version": 43,
+  "title": "测试更新",
+  "content": "这里是更新内容",
+  "isForce": false,
+  "confirm_text": "立刻更新",
+  "cancel_text": "下次再说",
+  "url": "https://127.0.0.1",
+  "coolDownTime": 604800
+}
